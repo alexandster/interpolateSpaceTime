@@ -2,6 +2,9 @@
 Performs spatiotemporal domain decomposition followed by inverse distance weighting (IDW) interpolation.
 Finds optimal value of power-paremter p by k-fold cross-validation.
 
+Required modules:
+numpy, scipy
+
 Relevant Literature:
 Desjardins, M. R., Hohl, A., Griffith, A., & Delmelle, E. (2017). Fine-scale visualization of pollen concentrations across the Eastern United States: A space-time parallel approach. Proceedings of the 2017 International Conference on GeoComputation.
 Desjardins M., Hohl, A., Griffith, A., & Delmelle, E. A space-time parallel framework for fine-scale visualization of pollen concentrations across the Eastern United States. (In Review) International Journal of Geographical Information Science.
